@@ -1,6 +1,7 @@
 site_name: My demo docs
 nav:
     - Home: index.md
+    - AutoDeploy: auto_deploy.md
     - About: about.md
 #theme: readthedocs
 theme: 
